@@ -1,15 +1,10 @@
 # FrontEnd_Course--Assignment-6_-DOM-
-
-
-
-
-# FrontEnd_Course--Assignment-5_-daisyUI-
 <br>
 
-## "A Fully Responsive Website i.e. E-school Creation using DaisyUI and TailwindCSS Framework"
+## "A Fully Responsive 'User Authentication and Transaction System' using DOM, JavaScript for the Back-End and DaisyUI, TailwindCSS Framework for the Front-End"
 <br/>
 
-    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-5_-daisyUI-/
+    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-6_-DOM-/
 
 ## My site is live at :
-https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-5_-daisyUI-/
+https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-6_-DOM-/
